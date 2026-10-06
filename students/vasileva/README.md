@@ -77,3 +77,4 @@ terraform destroy
 3. Копіювання Terraform-конфігурації на сервер по SSH
 4. Виконання terraform init + apply на сервері з новим тегом образу
 
+
