@@ -66,7 +66,7 @@ terraform destroy
 Через відсутність доступу до верифікації банківської картки AWS, хмарний 
 провайдер Terraform замінено на Docker Provider (kreuzwerker/docker). 
 Усі принципи IaC (init/plan/apply/destroy, variables, outputs) збережено 
-повністю — Terraform автоматично створює мережу та два контейнери 
+повністю - Terraform автоматично створює мережу та два контейнери 
 (застосунок + база даних) на сервері.
 
 ## CI/CD пайплайн
