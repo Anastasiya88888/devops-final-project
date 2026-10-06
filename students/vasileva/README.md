@@ -78,3 +78,4 @@ terraform destroy
 4. Виконання terraform init + apply на сервері з новим тегом образу
 
 
+
