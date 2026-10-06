@@ -76,3 +76,4 @@ terraform destroy
 2. Збірка й пуш Docker-образу в Docker Hub із тегом хешу коміту
 3. Копіювання Terraform-конфігурації на сервер по SSH
 4. Виконання terraform init + apply на сервері з новим тегом образу
+
